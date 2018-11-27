@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34675" started-at="2018-11-02T09:50:36Z" finished-at="2018-11-02T09:51:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34675" started-at="2018-11-02T09:50:36Z" finished-at="2018-11-02T09:51:11Z">
+      <class name="com.data.fileupload">
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:com.data.fileupload@2781e022]" name="startDriver" is-config="true" duration-ms="6797" started-at="2018-11-02T09:50:36Z" finished-at="2018-11-02T09:50:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.data.fileupload@2781e022]" name="login" duration-ms="27306" started-at="2018-11-02T09:50:43Z" finished-at="2018-11-02T09:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.data.fileupload@2781e022]" name="closeDriver" is-config="true" duration-ms="554" started-at="2018-11-02T09:51:11Z" finished-at="2018-11-02T09:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.data.fileupload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

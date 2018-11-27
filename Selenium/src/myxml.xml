@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MYSUITE" parallel="FALSE">
+  <test name="Test">
+    <classes>
+      <class name="NewTest"/>
+    </classes>
+   
+  </test> <!-- Test -->
+  
+   <test name="Test2">
+    <classes>
+      <class name="NewTest2"/>
+    </classes>
+   
+  </test> <!-- Test --> 
+   
+ 
+</suite> <!-- Suite -->
